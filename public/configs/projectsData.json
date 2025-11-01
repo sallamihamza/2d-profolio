@@ -1,0 +1,96 @@
+[
+  {
+    "pos": { "x": 0, "y": 350 },
+    "thumbnail": "credit",
+    "data": {
+      "title": "Credit Risk Prediction App",
+      "description": "Full-stack credit risk scoring application with Flask API and React frontend",
+      "technologies": ["Python", "Flask", "React", "scikit-learn", "RandomForest", "Pandas"],
+      "highlights": [
+        "15% improvement in prediction accuracy using Random Forest",
+        "Flask REST API for real-time scoring",
+        "Responsive React frontend with automated data preprocessing"
+      ],
+      "links": [
+        {
+          "id": 0,
+          "name": "Source Code",
+          "link": "https://github.com/sallamihamza/Credit-risk-project"
+        },
+        {
+          "id": 1,
+          "name": "Live Demo",
+          "link": "https://sallamihamza.github.io/fro/"
+        }
+      ]
+    }
+  },
+  {
+    "pos": { "x": 0, "y": 1000 },
+    "thumbnail": "customer-churn",
+    "data": {
+      "title": "Customer Churn Prediction",
+      "description": "Machine learning model for predicting customer churn with model explainability",
+      "technologies": ["Python", "scikit-learn", "XGBoost", "Pandas", "SHAP"],
+      "highlights": [
+        "12% improvement in classification accuracy using XGBoost",
+        "SHAP implementation for model explainability",
+        "Robust feature engineering and imbalanced dataset handling"
+      ],
+      "links": [
+        {
+          "id": 0,
+          "name": "Source Code",
+          "link": "https://github.com/sallamihamza/customer-churn"
+        }
+      ]
+    }
+  },
+  {
+    "pos": { "x": 0, "y": 1650 },
+    "thumbnail": "nlp-sql",
+    "data": {
+      "title": "Natural Language to SQL Converter",
+      "description": "AI-powered application converting natural language queries to SQL",
+      "technologies": ["OpenAI", "Microsoft Azure", "Streamlit", "SQLite", "Pandas"],
+      "highlights": [
+        "89.39% SQL factuality with 99.98% semantic similarity",
+        "40% reduction in deployment costs on Azure",
+        "30% increase in user engagement with intuitive visualization"
+      ],
+      "links": [
+        {
+          "id": 0,
+          "name": "Live Demo",
+          "link": "https://nl-to-sql-converter.streamlit.app"
+        },
+        {
+          "id": 1,
+          "name": "Source Code",
+          "link": "https://github.com/sallamihamza/nl-to-sql-converter"
+        }
+      ]
+    }
+  },
+  {
+    "pos": { "x": 0, "y": 2300 },
+    "thumbnail": "codiv-xray-classification",
+    "data": {
+      "title": "COVID-19 Chest X-Ray Classification",
+      "description": "Deep learning model for COVID-19 detection from medical imaging",
+      "technologies": ["TensorFlow", "Keras", "CNN", "OpenCV", "PyTorch"],
+      "highlights": [
+        "87% accuracy in COVID-19 detection",
+        "Convolutional Neural Network for image classification",
+        "Rapid diagnosis assistance through automated analysis"
+      ],
+      "links": [
+        {
+          "id": 0,
+          "name": "Source Code",
+          "link": "https://github.com/sallamihamza/covid-xray-classification"
+        }
+      ]
+    }
+  }
+]

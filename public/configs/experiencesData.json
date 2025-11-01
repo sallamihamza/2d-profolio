@@ -1,0 +1,28 @@
+[
+  {
+    "pos": { "x":280, "y": -300 },
+    "cardHeight": 250,
+    "roleData": {
+      "title": "Data Scientist Intern",
+      "description": "Developed a credit risk prediction system utilizing a 45,000-record dataset and evaluated Random Forest, XGBoost, and Linear Regression models. Achieved 15% improvement in accuracy over baseline and deployed the model via Flask API with React web interface for real-time risk prediction.",
+      "company": {
+        "name": "CODIX TN",
+        "startDate": "Jun 2025",
+        "endDate": "Jul 2025"
+      }
+    }
+  },
+  {
+    "pos": { "x": 280, "y": 0 },
+    "cardHeight": 250,
+    "roleData": {
+      "title": "Software Development and IT Support Intern",
+      "description": "Engineered a C# application to streamline intern management, reducing manual workload by 30% and accelerating evaluation processes by 20%. Resolved 15+ daily hardware and software issues and optimized OS installations using bootable USB drives, decreasing setup time by 25%.",
+      "company": {
+        "name": "Gafsa Phosphate Company",
+        "startDate": "Jun 2024",
+        "endDate": "Jul 2024"
+      }
+    }
+  }
+]

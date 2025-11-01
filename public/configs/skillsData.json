@@ -1,0 +1,31 @@
+[
+  { "pos": { "x": -250, "y": -300 }, "name": "Python", "logoData": { "name": "python-logo", "width": 128, "height": 128 } },
+  { "pos": { "x": -75, "y": -300 }, "name": "C", "logoData": { "name": "C-logo", "width": 128, "height": 128 } },
+  { "pos": { "x": 100, "y": -300 }, "name": "C++", "logoData": { "name": "cpp-logo", "width": 128, "height": 128 } },
+  { "pos": { "x": -400, "y": -300 }, "name": "Java", "logoData": { "name": "Java-logo", "width": 128, "height": 128 } },
+
+  { "pos": { "x": -250, "y": -150 }, "name": "R", "logoData": { "name": "R-logo", "width": 128, "height": 128 } },
+  { "pos": { "x": -75, "y": -150 }, "name": "Matlab", "logoData": { "name": "MATLAB-logo", "width": 128, "height": 128 } },
+  { "pos": { "x": 100, "y": -150 }, "name": "Excel", "logoData": { "name": "excel-logo", "width": 128, "height": 128 } },
+  { "pos": { "x": -400, "y": -150 }, "name": "Power BI", "logoData": { "name": "powerbi-logo", "width": 128, "height": 128 } },
+
+  { "pos": { "x": -250, "y": 0 }, "name": "React", "logoData": { "name": "react-logo", "width": 128, "height": 128 } },
+  { "pos": { "x": -75, "y": 0 }, "name": "Tailwind CSS", "logoData": { "name": "tailwind-logo", "width": 128, "height": 128 } },
+  { "pos": { "x": 100, "y": 0 }, "name": "Node JS", "logoData": { "name": "nodejs-logo", "width": 128, "height": 128 } },
+  { "pos": { "x": -400, "y": 0 }, "name": "Azure", "logoData": { "name": "azure-logo", "width": 128, "height": 128 } },
+
+  { "pos": { "x": -250, "y": 150 }, "name": "Docker", "logoData": { "name": "docker-logo", "width": 128, "height": 128 } },
+  { "pos": { "x": -75, "y": 150 }, "name": "GitHub Actions", "logoData": { "name": "github-actions-logo", "width": 128, "height": 128 } },
+  { "pos": { "x": 100, "y": 150 }, "name": "Flask", "logoData": { "name": "Flask-logo", "width": 128, "height": 128 } },
+  { "pos": { "x": -400, "y": 150 }, "name": "FastAPI", "logoData": { "name": "FastAPI-logo", "width": 128, "height": 128 } },
+
+  { "pos": { "x": -250, "y": 300 }, "name": "MySQL", "logoData": { "name": "mysql-logo", "width": 128, "height": 128 } },
+  { "pos": { "x": -75, "y": 300 }, "name": "PostgreSQL", "logoData": { "name": "postgres-logo", "width": 128, "height": 128 } },
+  { "pos": { "x": 100, "y": 300 }, "name": "SQLite", "logoData": { "name": "sqlite-logo", "width": 128, "height": 128 } },
+  { "pos": { "x": -400, "y": 300 }, "name": "TensorFlow", "logoData": { "name": "tensorflow-logo", "width": 128, "height": 128 } },
+
+  { "pos": { "x": -250, "y": 450 }, "name": "PyTorch", "logoData": { "name": "pytorch-logo", "width": 128, "height": 128 } },
+  { "pos": { "x": -75, "y": 450 }, "name": "scikit-learn", "logoData": { "name": "scikit-learn-logo", "width": 128, "height": 128 } },
+  { "pos": { "x": 100, "y": 450 }, "name": "Streamlit", "logoData": { "name": "streamlit-logo", "width": 128, "height": 128 } },
+  { "pos": { "x": -400, "y": 450 }, "name": "Keras", "logoData": { "name": "keras-logo", "width": 128, "height": 128 } }
+]

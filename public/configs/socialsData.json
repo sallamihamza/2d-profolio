@@ -1,0 +1,29 @@
+[
+  {
+    "pos": { "x": 400, "y": 250 },
+    "name": "GitHub",
+    "description": "Check out my data science and machine learning projects.",
+    "link": "https://github.com/sallamihamza",
+    "logoData": { "name": "github-logo", "width": 228.6, "height": 179.5 }
+  },
+  {
+    "pos": { "x": 600, "y": 250 },
+    "name": "LinkedIn",
+    "description": "Connect with me on LinkedIn for professional opportunities.",
+    "link": "https://linkedin.com/in/hamza-sallemi",
+    "logoData": { "name": "linkedin-logo", "width": 160, "height": 110 }
+  },
+  {
+    "pos": { "x": 800, "y": 250 },
+    "name": "Portfolio",
+    "description": "Visit my personal portfolio website.",
+    "link": "https://profilio-website-nine.vercel.app/",
+    "logoData": { "name": "portfolio-logo", "width": 128, "height": 128 }
+  },
+  {
+    "pos": { "x": 1000, "y": 250 },
+    "name": "Email",
+    "address": "aslamihamza@gmail.com",
+    "logoData": { "name": "email-logo", "width": 128, "height": 128 }
+  }
+]

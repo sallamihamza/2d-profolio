@@ -3,7 +3,7 @@
 Portfolio interactif sous forme de jeu 2D développé avec React, Vite et Kaplay. Explorez ma maison virtuelle pour découvrir mes compétences, projets et expériences de manière ludique.
 
 ## Démo en ligne
-
+https://2d-profolio.vercel.app/
 ## Fonctionnalités
 
 - Exploration interactive dans un environnement 2D pixelisé
